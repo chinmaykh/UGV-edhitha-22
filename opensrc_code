@@ -8,7 +8,7 @@ float latd= 13.0312559, logd= 77.5655982;
 float bearing;
 float heading;
 float headingDegrees;
-
+ 
 const int rp = 8;
 const int rn = 12;
 const int lp = 11;
